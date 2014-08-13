@@ -1,4 +1,5 @@
 class Task
+
   @@all_tasks = []
 
   def Task.all
